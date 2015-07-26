@@ -2,12 +2,13 @@
 
 Problem Translations for [CodeAbbey](http://www.codeabbey.com)
 
-We are going to create translations for problem statements of the CodeAbbey site. Most wanted languages are `French`
-and `Spanish` though we'll be glad to add `Italian`, `German`, `Hindi`, `Chinese` and others. As about `Russian` - the site's author is able to do it himself.
+We are going to create translations for problem statements of the CodeAbbey site. Most wanted languages are `French` and `Spanish` though we'll be glad to add `Italian`, `German`, `Hindi`, `Chinese` and others. As about `Russian` - the site's author is able to do it himself.
 
 Currently we need volunteers to help in this process. If you have a good knowledge of some of the languages
 mentioned above, and, preferably, of `Markdown` and `GitHub` - and want to lend us a hand, you are welcome. If you
 do not feel well with GitHub advanced features, you are welcome to use its `gist` functionality. We will be glad if you put your name in the form `translated by John Doe` below the text (it would be shown on the site).
+
+You are welcome to visit relevant [discussion at our forum](http://www.codeabbey.com/index/forum_topic/a3aa8b35e8fe646c6f6f4298035fcae4).
 
 Here follow descriptions of both approaches.
 
