@@ -9,8 +9,8 @@ Dacă deja ai învațat cum să rezolvi problema precedentă [Sum in Loop][prevt
 
 Pentru fiecare pereche de numere de mai jos, sarcina ta este să calculezi suma lor.
 
-**Datele de intrare** conțin pe prima line -  numarul total de perechi.
-Următoarele linii conțin perechile de numere propriu-zise.
+**Datele de intrare** conțin pe prima line -  numarul total de perechi.  
+Următoarele linii conțin perechile de numere propriu-zise.  
 **Răspunsul** ar trebui să conțină rezultatele pentru fiecare pereche, separate prin spațiu.
 
 

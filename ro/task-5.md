@@ -9,8 +9,8 @@ Sugestie: O declarație de tip `if ... else` ar putea fi (și ar trebuie de altf
 
 Căteva triplete de numere îți vor fi furnizate. Sarcina ta este să găsești valoarea minimă dintre fiecare aceste trei valori.
 
-**Datele de intrare** conțin pe prima line -  numarul total de triplete.
-Următoarele linii conțin tripletele de numere propriu-zise.
+**Datele de intrare** conțin pe prima line -  numarul total de triplete.  
+Următoarele linii conțin tripletele de numere propriu-zise.  
 **Răspunsul** ar trebui să conțină numărul minim al fiecărui triplet, separat prin spațiu.
 
 Exemplu:

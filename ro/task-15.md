@@ -8,7 +8,7 @@ Foarte des avem nevoie să cunoaștem valoarea maximă sau minimă dint-un ansam
 
 O dată ce toate valorile au fost epuizate, această variabilă temporară va conține numarărul maxim din tablou.
 
-**Datele de intrare** conțin pe o singură linie, exact `300` de numere.
+**Datele de intrare** conțin pe o singură linie, exact `300` de numere.  
 **Răspunsul** ar trebui să conțină numărul maxim si numărul minim din acest tablou, separate print spațiu.
 
 Exemplu:

@@ -3,9 +3,9 @@ Această problemă este un prim pas către manipularea și procesarea șirurilor
 
 *Deși simplă, această tehnică este importantă in cadrul unor probleme de tip criptografic. Pentru mai multe detalii, consultă problema [Caesar Cipher Cracker](./caesar-cipher-cracker).*
 
-**Datele de intrare** conțin pe prima linie, numărul total de linii de text.
-Următoarele linii conțin liniile de text propriu-zise.
-Liniile de text conțin doar litere mici ale alfabetului latin și spații.
+**Datele de intrare** conțin pe prima linie, numărul total de linii de text.  
+Următoarele linii conțin liniile de text propriu-zise.  
+Liniile de text conțin doar litere mici ale alfabetului latin și spații.  
 **Răspunsul** ar trebui să conțină numărul de vocale pentru fiecare linie, separate prin spațiu.
 
 Exemplu:

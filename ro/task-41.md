@@ -6,8 +6,8 @@ Pentru fiecare triplet de numere, tu ar trebui sa găsești numarul mijlociu - n
 
 Acest exercițiu este unul util întrucât, **mediana** joaca un rol important în cadrul algoritmului de sortare Quick Sort.
 
-**Datele de intrare** conțin pe prima linie, numărul total de triplete.
-Următoarele linii conțin tripletele propriu-zise.
+**Datele de intrare** conțin pe prima linie, numărul total de triplete.  
+Următoarele linii conțin tripletele propriu-zise.  
 **Răspunsul** ar trebui să conțină mediana pentru fiecare triplet, separate prin spațiu.
 
 Exemplu:

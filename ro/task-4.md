@@ -19,9 +19,9 @@ Poți afla mai multe citind acest articol pe wikipedia [Conditional statements][
 
 Sarcina ta este să gasești numărul minim dintre două numere naturale. 
 
-**Datele de intrare** conțin pe prima line -  numarul total de perechi.
-Următoarele linii conțin perechile de numere propriu-zise.
-**Răspunsul** ar trebui să conțină numărul minim din fiecare pereche, separat prin spațiu
+**Datele de intrare** conțin pe prima line -  numarul total de perechi.  
+Următoarele linii conțin perechile de numere propriu-zise.  
+**Răspunsul** ar trebui să conțină numărul minim din fiecare pereche, separat prin spațiu.
 
 
 Exemplu:

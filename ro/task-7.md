@@ -15,7 +15,7 @@ Conform sistemului Celsius, punctul de înghețare al apei este la 0 grade și p
 
 Sarcina ta este să scrii un program care va realiza în mod automat aceasta conversie din Fahrenheit în Celsius.
 
-**Datele de intrare** conțin `N+1` valori, prima valoare fiind însuși `N` adica numărul total de valori (**Notă** această valoare nu ar trebui sa fie tratată)
+**Datele de intrare** conțin `N+1` valori, prima valoare fiind însuși `N` adica numărul total de valori (**Notă** această valoare nu ar trebui sa fie tratată).  
 **Răspunsul** ar trebui să conțină exact `N` rezultate, fiecare dintre ele rotunjit la cel mai apropiat număr întreg si separate prin spațiu.
 
 Exemplu:

@@ -6,8 +6,8 @@ Datele de intrare consistă din câteva perechi de numere. Pentru fiecare perech
 
 Dacă in problemele viitoare va fi necesară rotunjirea rezultatului, poți folosi acest procedeu (excepție fiind cazul în care un alt procedeu este specificat)
 
-**Datele de intrare** conțin pe o singură linie numărul de perechi.
-Următoarele linii conțin perechile de numere propriu-zise.
+**Datele de intrare** conțin pe o singură linie numărul de perechi.  
+Următoarele linii conțin perechile de numere propriu-zise.  
 **Răspunsul** ar trebui să conțină câtul fiecarei perechi, rotunjit prin procedeul descris mai sus si separat prin spațiu.
 
 Exemplu:
