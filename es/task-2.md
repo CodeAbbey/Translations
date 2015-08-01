@@ -4,7 +4,7 @@
 
 Ahora nuestro objetivo es aprender los **bucles** - ej: acciones repetidas.
 Vamos a encontrar la suma de varios números (más de dos). Será muy útil hacer esto en un bucle.
-Como se ve en la figura de arribae - puedes crear la variable `sum` y sumarle cada valor de la lista.
+Tal como se ve en la figura de arriba - puedes crear la variable `sum` y sumarle cada valor de la lista.
 Quizá un [bucle "for" o bucle "for"](https://es.wikipedia.org/wiki/Bucle_for) funcione bastante bien ya que la cantidad de números se conoce de antemano.
 
 Si tienes problemas, intenta primero [Sums In Loop](./sums-in-loop) - es probablemente más fácil.
