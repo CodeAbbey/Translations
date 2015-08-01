@@ -1,4 +1,4 @@
-<div class="text center">
+<div class="text-center">
 	<img alt="types of angles in triangle" src="http://s5.postimg.org/atwposfqv/pythagorean_theoreme.png"/>
 </div>
 
