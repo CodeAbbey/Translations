@@ -1,7 +1,7 @@
 <div class="centered hint">
 	<img alt="CodeAbbey Mönche kämpfen with Bug" src="http://s3.postimg.org/ioodpr0tf/bug_monk_72_sm.gif"/><br/>
 	<span>Eine künstlerische Darstellung von Programmierern welche mit Software-Bugs zu kämpfen haben.</span><br/>
-	<span>Merke: Passendes Werkzeug ist ist meist Hilfreich!</span>
+	<span>Merke: Passendes Werkzeug ist wichtig und meist Hilfreich!</span>
 </div>
 
 Da aller Anfang schwer sein kann, lassen Sie uns am besten mit etwas einfachem beginnen. 
