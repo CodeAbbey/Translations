@@ -11,7 +11,7 @@ Es sollen nun zwei Zahlen addiert und das Resultat genannt werden.
 Obwohl Sie das auch manuell tun könnten, sollten Sie versuchen ein
 kleines Programm in einer Sprache welche Sie schon kennen, oder einer Sprache welche sie gerne lernen möchten zu scheiben. 
 
-_[Dieses Video](http://www.youtube.com/watch?v=gxfqeDm-B6k) (in englisch) demonstriert die notewendigen Schritte._
+_[Dieses Video](http://www.youtube.com/watch?v=gxfqeDm-B6k) (in englisch) demonstriert die notwendigen Schritte._
 
 ###Wie übermittle ich eine Lösung
 
