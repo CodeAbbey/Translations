@@ -14,7 +14,7 @@ Die **Eingabe Daten** haben das folgende Format:
 - Die erste Zeile beinhaltet die Anzahl der Zahlen welche addiert werden sollen;
 - Die zweite Zeile enthält die einzelnen Summanten selbst.
 
-**Lösung** muss eine einzelne Zahl, die Summe aller einzelnen Zahlen enthalten.
+**Lösung** muss eine einzelne Zahl, die Summe aller Zahlen enthalten.
 
 Beispiel:
 
