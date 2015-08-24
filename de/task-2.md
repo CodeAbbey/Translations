@@ -2,7 +2,7 @@
 <img alt="Demo über das addieren eines Arrays." src="http://s5.postimg.org/ixq2y0nnb/sum_in_loop.gif"/>
 </div>
 
-Als nächstes ist unser Ziel **"Loops"** kennen zu lernen, sprich "Wiederholte Aktionen". 
+Als nächstes ist unser Ziel **"Loops"** kennen zu lernen, sprich "Programm Schleifen" um Aktionen automatisch zu wiederholen. 
 Dazu lassen Sie uns gemeinsam die Summe mehrerer (mehr als zwei) Zahlen zu berechnen. Dazu nutzt man am besten eine Programm-Schleife bzw "Loop". 
 Wie im Bild gezeigt, können Sie dazu eine Variable "summe" erzeugen und jede gegebene Zahl der Liste einfach dort hinzuaddieren. 
 Eine ["for" Schleife](http://en.wikipedia.org/wiki/For_loop) ist dafür besonders geeignet, da die Anzahl der Zahlen bereits vorab bekannt ist.
