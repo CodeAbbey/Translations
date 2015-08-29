@@ -1,47 +1,44 @@
-Random numbers are often used in programming games and scientific researches, but also they could be useful even
-in business applications (to generate unique user keys, passwords etc.). We are going to learn how they are
-generated and have a practice with some simple of simpler methods.
+Zufallszahlen werden in der Programmierung oft eingesetzt in der Spieleprogrammierung,Forschung, Cryptographie usw, sind aber auch in Business-Anwendungen nützlich um z.B. eindeutige Benutzerkennungen, Passwörter oder ähniches zu erzeugen.
+Wir werden nun nun anschauen wie wir Zufallszahlen generieren können und mit einigen der einfacheren Methoden etwas üben.
 
-Here is one of the earliest methods for producing sequence of seemingly independed (i.e. **pseudorandom**) numbers:
+Hier zeigen wir eine der alte Methoden wie man Früher "vermeindliche" Zufallszahlen, d.h. eine Sequenz von anscheinend unabhängigen Zahlen erzeugt hat **(Pseudorandomisiert)**:
 
-1. Choose some initial value with 4 digits (i.e. in range `0000 ... 9999`).
-2. Multiply it by itself (i.e. raise to power 2) to get value consisting of 8 digits (add leading zeroes if necessary).
-3. Truncate two first and two last digits in decimal representation of this result.
-4. New value will contain 4 digits and it is the next value of a sequence.
-5. To get more values, repeat from step 2.
+1. Wähle eine beliebige vierstellige Zahl als Startwert (Also zwischen `0000 ... 9999`).
+2. Multipliziere sie mit sich selbst (Quadrieren, x^2) um eine 8 Stellige Zahl zu erhalten (Füge ggf. noch führende Nullen hinzu um die Zahl 8 Stellig darzustellen).
+3. Schneide von der 8 Stelligen Zahl die ersten und letzten zwei Stellen ab (Truncate).
+4. Die neue Zahl ist nun nur noch vierstellig und wird unser neuer Startwert für den nächsten Durchlauf zur Berechnung des nächsten Wertes. 
+5. Um noch mehr Zahlen zu erhalten ab Schritt 2 wiederholen. 
 
-Example:
+Beispiel:
 
-    5761                      - let it be the first number
-	5761 * 5761 = 33189121    - raised to power 2
-	33(1891)21 => 1891        - truncate to get the middle
+    5761                      - das soll unsere Startnummer (Seed) sein.
+	5761 * 5761 = 33189121    - quadrieren (x^2)
+	33(1891)21 => 1891        - vorn und hinten 2 Stellen abschneiden (truncate) und den mittleren Teil behalten
 	
-	1891                      - it is the second number in the sequence
-	1891 * 1891 = 3575881    - raised to power 2 (add leading zero to get 8 digits)
-	03(5758)81 => 5758         - truncate to get the middle
+	1891                      - Das ist unser Resultat und zweite Nummer in der "Zufallsreihe".
+	1891 * 1891 = 3575881    - quadrieren (x^2) und Zahl mit führenden Nullen auffüllen um eine 8 stellige Zahl zu erhalten
+	03(5758)81 => 5758         - vorn und hinten 2 Stellen abschneiden (truncate) und den mittleren Teil behalten
 	
-	5758                      - it is the third number in the sequence (and so on...)
+	5758                      - Das ist nun unsere dritte Nummer in der "Zufallsreihe" (und so weiter und so fort...)
 
-It is obvious that sooner or later each sequence will come to a kind of loop, for example:
+Es ist offensichtlich, dass sich die Reihe früher oder später in einer Endlosschleife wiederholen wird. Ein Beispiel:
 
-    0001 -> 0000 -> 0000                   - came to loop after 2 iterations
-	4100 -> 8100 -> 6100 -> 2100 -> 4100   - came to loop after 4 iterations
+    0001 -> 0000 -> 0000                   - Endlosschleife nach nur 2 Durchgängen
+	4100 -> 8100 -> 6100 -> 2100 -> 4100   - Endlosschleife nach 4 Durchgängen
 
-You will be given initial numbers for several sequences. For each of them report the number of iterations needed to
-come to repetition.
+Für diese Übung erhalten Sie für mehrere Zahlenreihen immer die Start-Zahl (Seed). Sie sollen nun für jede Start-Zahl die Anzahl der Wiederholungen (Durchläufe) angeben bis sich eine Sequenz zu wiederholen beginnt. 
 
-**Input data** will contain amount of initial values in the first line. Second line contains initial values themselves,
-separated by spaces.  
-**Answer** should contain number of iterations for sequences with such initial values to come to the loop.
+**Eingabe Daten:** Die erste Zeile enthältdie Anzahl der Startwerte für welche Sie Zahlenreihen berechnen sollen. In der zweiten Zeile stehen die einzelnen Startwerte mit Leerzeichen getrennt hintereinander.  
+**Lösung:** Die Lösung ist eine Leerzeichen separierte Zeile in der Sie die Anzahl der Durchläufe (Loops) angeben, bis sich die Zahlenreihe zu wiederholen beginnt. 
 
-Example:
+Beispiel:
 
-    input data:
+    Eingabe Daten:
 	3
 	0001 4100 5761
 	
-	answer
+	Lösung:
 	2 4 88
 
-*Hint: To truncate the 8-digit value, divide it by `100` and then take remainder of division by `10000`.*
+*Ein Tip: Um die 8 Stellige Zahl zu zerschneiden teilen Sie sie durch `100` und dann nehmen Sie davon den "Rest" (Modulo, Remainder) der division mit `10000`.*
 	
