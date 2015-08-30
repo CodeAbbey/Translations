@@ -1,23 +1,20 @@
-This is a simple problem to get introduced to string processing. We will be given several lines of text - and for each
-of them we want to know the number of vowels (i.e. letters `a, o, u, i, e, y`). **Note:** that `y` is regarded as
-vowel for purpose of this task.
+Hier eine einfache Übungsaufgabe als Einführung in die Verarbeitung von Zeichenketten (Strings). Wir erhalten mehrere Zeilen Text und für jede Zeile möchten wir gerne die Anzahl der Vocale wissen. (z.B. die Buchstaben  `a, o, u, i, e, y`). **Anmerkung:** Das `y` wurde für diese Übung absichtlich der Liste hinzugefügt!
 
-*Though simple, this technic is important in cipher-breaking approaches. For example refer to
-[Caesar Cipher Cracker](./caesar-cipher-cracker) problem.*
+*Obwohl diese Aufgabe selbst relativ einfach ist, so ist diese Technik doch ein wichtiger Teil beim knacken von verschlüsselten Nachrichten. Siehe Übungsaufgabe [Caesar Cipher Cracker](./caesar-cipher-cracker).*
 
-**Input data** contain number of test-cases in the first line.  
-Then the specified number of lines follows each representing one test-case.  
-Lines consist only of lowercase English (Latin) letters and spaces.  
-**Answer** should contain the number of vowels in each line, separated by spaces.
+**Eingabe Daten** In der ersten Zeile stehen wieder die Anzahl der zur Verarbeitung anstehenden Test-Fälle.  
+Jede folgende Zeile ist jeweils ein einzelner Test-Fall den es zu untersuchen gilt. 
+Die Zeilen bestehen aus Kleinbuchstaben (Lateinischen Buchstaben) Latin) und Leerzeichen.  
+**Lösung** Die Lösung sollte die Anzahl der gefundenen Vocale (gemäß Liste) einer einzelnen Text-Zeile , betrennt durch Leerzeichen enthalten. 
 
-Example:
+Beispiel:
 
-    input data:
+    Eingabe Daten:
 	4
 	abracadabra
 	pear tree
 	o a kak ushakov lil vo kashu kakao
 	my pyx
 	
-	answer:
+	Lösung:
 	5 4 13 2
