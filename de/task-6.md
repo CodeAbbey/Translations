@@ -13,16 +13,17 @@ Wenn wir also von nun an in Zukunft bei  Übungsaufgaben von Rundung sprechen is
 Algorythmus gemeint (es sei denn wir legen etwas anderes fest). 
 
 **Eingabe Daten** beschreiben in der ersten Zeile die Anzahl der zu verarbeitenden Testfälle.  
-In jeder nächsten Zeile steht jeweils ein Testfall als Zahlenpaar durch Leerzeichen getrennt. 
+In jeder nächsten Zeile steht jeweils ein Testfall als Zahlenpaar durch Leerzeichen getrennt.  
 **Lösung** enthält das Resultat nach Division und Rundung für jedes Zahlenpaar, getrennt durch Leerzeichen. 
 
 Beispiel:
 
-	Eingabe Daten:
-	3
-	12 8
-	11 -3
-	400 5
-	
-	Lösung:
-	2 -4 80
+    Eingabe Daten:
+    3
+    12 8
+    11 -3
+    400 5
+
+    Lösung:
+    2 -4 80
+
