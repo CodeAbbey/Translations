@@ -2,8 +2,9 @@
 
 Problem Translations for [CodeAbbey](http://www.codeabbey.com)
 
-Colleagues who contributed so far:
+Colleagues who contributed so far more than 10 translations:
 
+- [Axel Werner](https://github.com/axel1973) - German
 - [M-Padilla](https://github.com/M-Padilla) - Spanish
 - [Kuoa](https://github.com/kuoa) - Romanian
 - [RodionGork](https://github.com) - Russian
