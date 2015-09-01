@@ -11,10 +11,10 @@ Wobei Gewicht in `Kilogram` und Körpergröße in `Meter` gemessen wird.
 
 Generell unterscheided man Vier Grade:
 
-	Untergewichtig     -           BMI < 18.5
-	Normalgewichtig    -   18.5 <= BMI < 25.0
-	Übergewichtig      -   25.0 <= BMI < 30.0
-	Fettleibig         -   30.0 <= BMI
+    Untergewichtig     -           BMI < 18.5
+    Normalgewichtig    -   18.5 <= BMI < 25.0
+    Übergewichtig      -   25.0 <= BMI < 30.0
+    Fettleibig         -   30.0 <= BMI
 
 Als Beispiel, bei einem Gewicht von `80 kg` und einer Körpergroße von `1.73 m` berechnet sich mein BMI wie folgt:
 
@@ -25,19 +25,18 @@ Bin in sofern etwas übergewichtig.
 Wir werden nun nicht darüber diskutieren wie ungenau und unangemessen diese Einteilung ist. 
 Statt desen sollen Sie einfach nur die BMI Stufen für mehrere Personen berechnen und ausgeben. 
 
-**Eingabe Daten** enthält in der ersten Zeile die Anzahl der Personen für welche Sie den BMI Grad berechnen sollen.
-Die nachfolgenden Zeilen enthalten jeweils zwei Werte - Das Gewicht in KG und die Körpergröße in Meter. 
-
-**Lösung** sollte in einer Zeile durch Leerzeichen getrennt die BMI Stufe als "Wort" ausgeben. 
+**Eingabe Daten** enthält in der ersten Zeile die Anzahl der Personen für welche Sie den BMI Grad berechnen sollen.  
+Die nachfolgenden Zeilen enthalten jeweils zwei Werte - Das Gewicht in KG und die Körpergröße in Meter.  
+**Lösung** sollte in einer Zeile durch Leerzeichen getrennt die BMI Stufe als "Wort" ausgeben.  
 Verwenden Sie dazu bitte die englische Bezeichnungen `under`, `normal`, `over` oder `obese` entsprechend der BMI Grade.
 
 Beispiel:
 
     Eingabe Daten:
-	3
-	80 1.73
-	55 1.58
-	49 1.91
-	
-	Lösung:
-	over normal under
+    3
+    80 1.73
+    55 1.58
+    49 1.91
+
+    Lösung:
+    over normal under
