@@ -1,6 +1,6 @@
 من الأرجح أنك قمت بحل مسألة 
 
-[العدد الأصغر](http://www.codeabbey.com/index/task_view/minimum-of-three--ar)
+[العدد الأصغر](http://www.codeabbey.com/index/task_view/min-of-three--ar)
 
 الآن سنجعل الموضوع يستحق العناء أكثر :
 
