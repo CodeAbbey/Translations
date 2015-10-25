@@ -5,7 +5,7 @@
 	<img alt="fahrenheit and celsius" src="http://s5.postimg.org/3tpo5bg6v/fahrenheit.png"/>
 </div>
 
-*注意：在[Rounding](./rounding)问题中解释的约数算法会在这个任务中被用到。*   
+*注意：在[Rounding](./rounding--zh)问题中解释的约数算法会在这个任务中被用到。*   
 
 有两个被广泛使用的测量温度的系统 —— 摄氏度和华氏度。第一个在欧洲相当流行，第二个使用也很广泛，例如在美国。  
 
