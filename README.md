@@ -6,6 +6,7 @@ Colleagues who contributed so far 10 or more translations:
 
 - [Axel Werner](https://github.com/axel1973) - German
 - [M-Padilla](https://github.com/M-Padilla) - Spanish
+- [Ren Yuntao](https://github.com/renyuntao) - Chinese
 - [Kuoa](https://github.com/kuoa) - Romanian
 - [Aghiad Alzein](https://github.com/m-agh-ze) - Arabic
 - [RodionGork](https://github.com/RodionGork) - Russian
