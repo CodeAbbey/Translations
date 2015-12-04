@@ -1,0 +1,33 @@
+_Try this problem after [Mul Two](./mul-two) if you have troubles with [Fibonacci Randomizer](./fibonacci-randomizer).
+Here we are going to learn how simple [conditions and loops](https://github.com/codeabbey/intel4004-emu/wiki/Jump-instructions)
+are used._
+
+The task is very simple. You will be given an integer (in range `0..15`) in the `R1`. You should count how many bits it have
+raised (equal to 1) and put the result in `R0`.
+
+Note that your answer should be a valid source for running in Intel 4004 emulator.
+
+**Input** on program start `R1` is initialized with some value.  
+**Result** should be count of bits stored in `R0` after program finishes.
+
+Examples:
+
+    input:    0 0 ...
+	result:   0 ...
+	
+	input:    0 1 ...
+	result:   1 ...
+	
+	input:    0 2 ...
+	result:   1 ...
+	
+	input:    0 3 ...
+	result:   2 ...
+	
+	input:    0 f ...
+	result:   4 ...
+
+<script>
+$(function() {selectLanguage('asm4004');});
+var answerNotNeeded = true;
+</script>
