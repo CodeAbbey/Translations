@@ -19,17 +19,16 @@ Wenn Sie bereits eingeloggt sind, sehen Sie die folgenden Eingabefelder:
 
 - **Test data** beinhaltet die "Eingabe-Daten" bzw. "Test-Daten" - Zwei Zahlen welche wir gerne addieren möchten. 
 - **Your answer** - In diesem Feld erscheint die Ausgabe ihres Programms, also das Resultat der verarbeiteten Daten.
-- **Your solution** - Dieses Feld beinhaltet ihren selbstgeschriebenen Programm-Code bzw "Lösung" zu dieser Aufgabe. 
-    FIXME It would not be checked (at least automatically), but it will help you reuse your code in the next tasks. FIXME
+- **Your solution** - Dieses Feld beinhaltet ihren selbstgeschriebenen Programm-Code bzw "Lösung" zu dieser Aufgabe.
     Sie können später jeder Zeit diese Aufgabe wieder aufrufen und ihren eingereichten Programm-Code wieder betrachten.
 
 Beispiel:
 
-	Eingabe Daten:
-	3 5
-	
-	Resultat:
-	8
+    Eingabe Daten:
+    3 5
+
+    Resultat:
+    8
 
 Wir bieten Ihnen für diese Aufgabe **[Lösungsbeispiele](../wiki/running)** in vielen populären Programmiersprachen an, 
 aber wir raten davon ab sich diese vorab anzuschauen. Versuchen Sie besser erst ein mal diese Aufgabe ohne Beispiel zu lösen. :)

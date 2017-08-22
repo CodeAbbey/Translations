@@ -2,11 +2,14 @@
 
 Problem Translations for [CodeAbbey](http://www.codeabbey.com)
 
-Colleagues who contributed so far:
+Colleagues who contributed so far 10 or more translations:
 
+- [Axel Werner](https://github.com/axel1973) - German
 - [M-Padilla](https://github.com/M-Padilla) - Spanish
+- [Ren Yuntao](https://github.com/renyuntao) - Chinese
 - [Kuoa](https://github.com/kuoa) - Romanian
-- [RodionGork](https://github.com) - Russian
+- [Aghiad Alzein](https://github.com/m-agh-ze) - Arabic
+- [RodionGork](https://github.com/RodionGork) - Russian
 
 We are going to create translations for problem statements of the CodeAbbey site. Most wanted languages are `French` and `Spanish` though we'll be glad to add `Italian`, `German`, `Hindi`, `Chinese` and others. As about `Russian` - the site's author is able to do it himself.
 

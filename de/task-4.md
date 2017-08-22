@@ -19,7 +19,7 @@ Im Wikipedia Artikel über [Bedingte Anweisung und Verzweigung][cond] können Si
 Gegeben sind zwei Zahlen von denen Sie jeweils immer die kleinste Zahl als Lösung wählen. Insg. stehen aber mehrere Zahlenpaare zur Verarbeitung bereit. 
 
 **Eingabe Daten** enthält in der ersten Zeile die Anzahl der zur Verarbeitung anstehenden Zahlenpaare.  
-Die nachfolgenden Zeilen enthalten die Zahlenpaare, dessen Elemente es zu vergleichen gilt. 
+Die nachfolgenden Zeilen enthalten die Zahlenpaare, dessen Elemente es zu vergleichen gilt.  
 Als **Lösung** geben Sie bitte stets das kleinste Element durch Leerzeichen getrennt an. Zum Beispiel:
 
     Daten:
