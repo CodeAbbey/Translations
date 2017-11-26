@@ -21,7 +21,7 @@ You are welcome to visit relevant [discussion at our forum](http://www.codeabbey
 
 Here follow descriptions of both approaches.
 
-###Working via GitHub forks and pull-requests
+### Working via GitHub forks and pull-requests
 
 1. Choose some problem which you want to translate, it is ok to start with shorter ones.
 2. Open it in your browser and change the `.../task_view/...` in URL to `.../task_text/...` to see the source text (you need to be logged in).
@@ -31,7 +31,7 @@ Here follow descriptions of both approaches.
 6. You may click `Preview` to see how your future page looks like.
 7. When done, click `Commit` below the text area and create pull-request, so that I can merge your work to main repository.
 
-###Simpler way
+### Simpler way
 
 1. Steps 1 and 2 are the same as above - chose some problem and open its source.
 2. Log into GitHub (this will allow you to save / edit your work later), creating account if necessary.
