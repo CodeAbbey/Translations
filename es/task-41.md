@@ -6,7 +6,7 @@ Tendrás de nuevo una tripleta de números, pero ahora debes elegir el del medio
 
 Asegúrate de que la solución no sea simplemente "otro ejercicio estúpido" - ya que se utiliza como parte de poderosos algoritmos, QuickSort, por ejemplo.
 
-**Datos de entrada** contendrán en la primera línea el número de la tripletas a tratar. Las siguientes líneas contendrán una tripleta cada una.
+**Datos de entrada** contendrán en la primera línea el número de la tripletas a tratar. Las siguientes líneas contendrán una tripleta cada una.  
 **La respuesta** medianas seleccionadas de las tripletas, separados por espacios.
 
 Ejemplo:
