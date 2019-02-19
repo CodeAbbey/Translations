@@ -4,15 +4,12 @@ You probably already solved the problem [Minimum of Three](./min-of-three) - and
 programmers should improve their logic (and not only skills in programming language), let us change the task to make
 it more tricky.
 
-Probablemente ya resolviste el problema [Mínimo de tres] (./ min-de-tres), ¿y no fue un gran enigma para ti? Ya que
-Los programadores deben mejorar su lógica (y no solo las habilidades en lenguaje de programación), cambiemos la tarea para hacer
-Es más complicado.
+Probablemente ya resolvistes el problema [Mínimo de tres] (./min-of-three), ¿ No fue un gran reto ? Los programadores debemos mejorar nuestra lógica (y no solo los conocimientos en los lenguajes de programación), cambiaremos la el ejercicio para hacerlo más complicado.
 
 You will be again given triplets of numbers, but now the middle of them should be chosen - i.e. not the largest and not
 the smallest one. Such number is called the **Median** (of the set, array etc).
 
-Se te darán de nuevo trillizos de números, pero ahora debes elegir la mitad de ellos, es decir, no el más grande y no
-El más pequeño. Tal número se llama ** Mediana ** (del conjunto, matriz, etc.).
+Tendrás de nuevo una tripleta de números, pero ahora debes elegir el del medio de ellos, es decir, no el más grande y no el más pequeño. Este número se llama ** Mediana ** (del conjunto, matriz, etc.).
 
 Be sure, this problem is not simply "another stupid exercise" - it is used as a part in powerful QuickSort algorithm,
 for example.
@@ -24,9 +21,8 @@ por ejemplo.
 Next lines will contain one triplet each.  
 **Answer** should contain selected medians of triplets, separated by spaces.
 
-** Los datos de entrada ** contendrán en la primera línea el número de tripletes a seguir.
-Las siguientes líneas contendrán un triplete cada una.
-** La respuesta ** debe contener medianas seleccionadas de trillizos, separados por espacios.
+** Datos de entrada ** contendrán en la primera línea el número de la tripletas a tratar. Las siguientes líneas contendrán una tripleta cada una.
+** La respuesta ** medianas seleccionadas de las tripletas, separados por espacios.
 
 Ejemplo:
 
@@ -42,5 +38,4 @@ Ejemplo:
 Note: if your program will have a lot of if-else-if-else statements, then you are probably doing something wrong.
 Simple solution should have no more than three of them.
 
-Nota: si su programa tendrá muchas declaraciones if-else-if-else, entonces probablemente esté haciendo algo mal.
-La solución simple no debe tener más de tres.
+Nota: si la solución contiene muchas declaraciones if-else-if-else, probablemente estés haciendo algo mal. La solución simple no debe tener más de tres.
