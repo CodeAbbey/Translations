@@ -11,7 +11,8 @@ Ahora, los fundadores de la empresa, quieren saber el tiempo mínimo necesario p
 
 **Datos de entrada** número de casos de prueba en la primera línea.
 Luego seguirán los casos de prueba, cada uno en una línea separada.
-Cada caso de prueba contiene tres valores enteros, `X Y N`, donde `N` no superara la cantidad de `1,000,000,000`. X e Y son los segundos/pag. de cada impresora.
+Cada caso de prueba contiene tres valores enteros, `X Y N`, donde `N` no superara la cantidad de `1,000,000,000`. `X` e `Y` son los segundos/pag. de cada impresora.
+
 **La respuesta** tiempos de impresión mínimos para cada uno de los casos de prueba, separados por espacios.
 
 Ejemplo:
