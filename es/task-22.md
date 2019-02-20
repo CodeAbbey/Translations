@@ -5,8 +5,6 @@ Juan y María fundaron **la editorial J & M** y compraron dos impresoras antigua
 
 Ahora tienen su primer encargo: imprimir un documento que consta de páginas `N`.
 
-It appears that printers work at different speed. One produces a page in `X` seconds and other does it in `Y` seconds.
-
 Las impresoras trabajan a diferentes velocidades. Una imprime una página en `X` segundos y otra en `Y` segundos.
 
 Ahora, los fundadores de la empresa, quieren saber el tiempo mínimo necesario para imprimir todo el documento con las dos impresoras.
