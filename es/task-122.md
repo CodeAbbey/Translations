@@ -1,5 +1,5 @@
-Now that you have learned about three sorting algorithms with quadratic time complexity ([Bubble](./bubble-sort),
-(./selection) and [Insertion](./insertion) sorts) you should be curious, whether it is possible to perform the task significantly faster.
+Now that you have learned about three sorting algorithms with quadratic time complexity [Burbuja - Bubble](./bubble-sort--es),
+[Selección - Selection](./selection--es) and [Insercción - Insertion](./insertion--es) sorts) you should be curious, whether it is possible to perform the task significantly faster.
 
 The problem is that if these algorithms solrt `10000` elements in a second, then they will sort `100` times more
 elements (one million) in about `100*100` longer time, i.e. several hours!
