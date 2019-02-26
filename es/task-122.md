@@ -8,7 +8,7 @@ Luckily there really are other approaches. One of them is a **Quick-sort**. It u
 sort with time complexity of `O(N*log(N))` which increases almost proportional to simple `N` rather than `N*N` as
 with simpler methods!
 
-###Algorithm
+### Algorithm
 
 Suggest we have
 an array of numbers:
@@ -44,7 +44,7 @@ of `1`. It is convenient to use recursive function for such algorithm:
 Here the function receives the array being sorted as an argument and also two indices specifying which range should
 be sorted by this call.
 
-###Partitioning
+### Partitioning
 
 The only tricky moment is how to perform "partitioning" - i.e. choosing pivot and reordering elements to the sides
 of it. Lazy implementations, especially in functional programming languages, may create two new sub-arrays and filter
@@ -99,7 +99,7 @@ Examine this algorithm step by step with pencil and paper to see how it works.
 
 ---
 
-###Problem statement
+### Problem statement
 
 Please implement the described algorithm and run it on a sample array. For each call of `quicksort` please output
 its `left` and `right` parameters.
@@ -118,4 +118,5 @@ Example:
 	answer:
 	0-9 0-3 1-3 1-2 5-9 5-8 5-7
 
-*You may want to read more in the Wikipedia [article on Quicksort](http://en.wikipedia.org/wiki/Quicksort).*
+*Puedes leer más en la Wikipedia [artículo sobre Quicksort](https://es.wikipedia.org/wiki/Quicksort).*
+
