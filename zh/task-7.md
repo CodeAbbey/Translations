@@ -2,7 +2,7 @@
 这个编程练习与在循环中计算总和大致相同，但是这个需要稍微多一点的计算。       
 
 <div class="text-center">
-	<img alt="fahrenheit and celsius" src="http://s5.postimg.org/3tpo5bg6v/fahrenheit.png"/>
+	<img alt="fahrenheit and celsius" src="https://codeabbey.github.io/data/fahrenheit_celsius.png"/>
 </div>
 
 *注意：在[Rounding](./rounding--zh)问题中解释的约数算法会在这个任务中被用到。*   
