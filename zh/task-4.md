@@ -1,5 +1,5 @@
 <div class="text-center">
-	<img src="http://s5.postimg.org/j3mtrsuk7/min_of_two.gif" alt="Choosing minimum animation"/>
+	<img src="https://codeabbey.github.io/data/min_of_two.gif" alt="Choosing minimum animation"/>
 </div>
 
 很多程序应该能够做一些选择和决断。我们将要练习包含条件的程序。    
