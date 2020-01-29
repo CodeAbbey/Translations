@@ -17,7 +17,7 @@ ak myslíte, že ste nejaké našli, taktiež sa kľudne pýtajte na objasnenie 
 
 Hra "Klotski" je evolúcia **15tich puzzle**: máme obdĺžnikové hracie pole s obdĺžnikovými dlaždicami,
 ktoré sa vnútri posúvajú. Cieľom je posunúť jeden z blokov na určité miesto, ktoré je na protiľahlej strane.
-[V tomto článku na wiki](https://en.wikipedia.org/wiki/Klotski). Bez problémov túto hru nájdete pre platformy ako Windows, Linux
+[Viac v tomto článku na wiki](https://en.wikipedia.org/wiki/Klotski). Bez problémov túto hru nájdete pre platformy ako Windows, Linux
 alebo Android (taktiež aj pre iné operačne systémy..) - alebo aj na webe - takže sa nehanbite si ju vyskúšať.
 
 Herné pozície budú popísane latinskými písmenami: rovnaké písmeno je pre obdĺžniky jednej dlaždice.
