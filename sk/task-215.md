@@ -37,7 +37,7 @@ jednotlivé (1x1) dlaždice a 5 dvojitých - a kvôli tomu ako sú otočené je 
 
 Očividne pre každý variant je "optimálne" riešenie - to, s najmenším počtom pohybov. Ako jeden pohyb počítame
 jeden pohyb akéhokoľvek obdĺžnička, aj keď ho posunieme o viac ako 1 dlaždicu a aj keď posun nie je po rovnakej osi.
-"Jednoduchý" variant by sa dal vyriešiť v `17tich` pohyboch, zatiaľ čo "ťažký" variant - v 81. Riešenie je obtiažne, no
+"Jednoduchý" variant by sa dal vyriešiť v `17` pohyboch, zatiaľ čo "ťažký" variant - v 81. Riešenie je obtiažne, no
 nájdenie optimálneho riešenia môže byť ešte obtiažnejšie!
 
 ### Problémový výrok
