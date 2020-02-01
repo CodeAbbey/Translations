@@ -1,4 +1,4 @@
-_Môže byť užitočné ak vyriešite najskôr [Bubble in Array](./bubble-in-array) pred touto úlohou_
+_Môže vam pomäcť ak vyriešite najskôr [Bubble in Array](./bubble-in-array) pred touto úlohou_
 
 Triedenie polí je populárny problém pre nováčikov - a mimoriadne dôležitá vec v profesionálnom
 programovaní (v databázach, knižniciach atď).
