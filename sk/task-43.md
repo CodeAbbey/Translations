@@ -3,7 +3,7 @@ Pri programovaní RPG alebo stolových hrách, veľa začínajúcich programáto
 na jednotlivé čísla pri hode kockou. Cieľom tejto úlohy je vyskúšať si simuláciu hodom kocky, hodnotami z generátoru
 náhodných čísel.
 
-Predpokladajme, že máme generátor ktorý nám da hodnoty v rozmedzí od  `0` (je v intervale) do `1` (nie je v intervale)
+Predpokladajme, že máme generátor, ktorý nám da hodnoty v rozmedzí od  `0` (je v intervale) do `1` (nie je v intervale)
 s týmto sa môžete stretnúť v jazykoch ako **Basic**, **Java**, **Matlab** atď.
 
 Chceme konvertovať tieto hodnoty s rôznou dĺžkou desatinného rozvoja na 6 **celých** čísel: od `1` do `6`. Toto sa dá
