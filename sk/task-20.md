@@ -1,5 +1,5 @@
 Toto je jednoduchý problém na úvod do spracovania reťazcov (string). Bude nám poskytnutých niekoľko riadkov textu
-a pre každý z nich chceme vedieť počet samohlások (t.j. písmená `a, o, u, i, e, y`). **Všimnite si:** že `y` is považovaný za
+a pre každý z nich chceme vedieť počet samohlások (t.j. písmená `a, o, u, i, e, y`). **Všimnite si:** že `y` považovaný za
 samohlásku pre účel tejto úlohy.
 
 *Táto dôležitá, aj keď jednoduchá technika je použitá v lámaní šifrovania. Pozri napríklad aj
