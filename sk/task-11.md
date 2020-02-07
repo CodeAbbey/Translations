@@ -38,6 +38,6 @@ a sčítavaním zvyškov. Prečítajte si článok [číslo na číslice][numtod
 	odpoveď:
 	1 16 21
 
-V prvom príklaďe je potrebné vypočítať `11*9+1 = 100` a jeho číslic je `1+0+0 = 1`.
+V prvom príklaďe je potrebné vypočítať `11*9+1 = 100` a súčet jeho číslic je `1+0+0 = 1`.
 
 _translated by [Radovan Markus](https://www.codeabbey.com/index/user_profile/rajkoisawesome)_
