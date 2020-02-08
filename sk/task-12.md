@@ -1,4 +1,4 @@
-Vysporiadanie sa so zvyškom môže niekedy sposobiť migrénu začínajúcim programátorom. Poďme napísať jednoduchý
+Vysporiadanie sa so zvyškom môže niekedy spôsobiť migrénu začínajúcim programátorom. Poďme napísať jednoduchý
 program, aby sme si precvičili celočíselné delenie. Zároveň si vyskúšame aj prácu s dátumom,
 ktorá niekedy spôsobuje bolesti hlavy aj skúseným programátorom.
 
