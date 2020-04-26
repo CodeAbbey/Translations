@@ -4,7 +4,7 @@
 	<span>Všimnite si, že správne náradie môže byť nápomocné!</span>
 </div>
 
-Začiatky môžu byť nieekdy ťažké, preto poďme vyskúšať najjednoduchší možný problém.
+Začiatky môžu byť niekdy ťažké, preto poďme vyskúšať najjednoduchší možný problém.
 Cieľom je vyskúšať si posielanie odpovedí atď.
 
 Potrebujeme sčítať dve čísla a zobraziť výsledok. Napriek tomu, že to môžete urobiť ručne, skúste napísať 
