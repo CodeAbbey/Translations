@@ -2,7 +2,7 @@
 
 Problem Translations for [CodeAbbey](http://www.codeabbey.com)
 
-Colleagues who contributed so far 10 or more translations:
+Some of colleagues who contributed translations:
 
 - [Axel Werner](https://github.com/axel1973) - German
 - [M-Padilla](https://github.com/M-Padilla) - Spanish
@@ -10,18 +10,18 @@ Colleagues who contributed so far 10 or more translations:
 - [Kuoa](https://github.com/kuoa) - Romanian
 - [Aghiad Alzein](https://github.com/m-agh-ze) - Arabic
 - [RodionGork](https://github.com/RodionGork) - Russian
+- [Radovan Markus](https://www.codeabbey.com/index/user_profile/rajkoisawesome) - Slovak
 
 We are going to create translations for problem statements of the CodeAbbey site. Most wanted languages are `French` and `Spanish` though we'll be glad to add `Italian`, `German`, `Hindi`, `Chinese` and others. As about `Russian` - the site's author is able to do it himself.
 
 Currently we need volunteers to help in this process. If you have a good knowledge of some of the languages
-mentioned above, and, preferably, of `Markdown` and `GitHub` - and want to lend us a hand, you are welcome. If you
-do not feel well with GitHub advanced features, you are welcome to use its `gist` functionality. We will be glad if you put your name in the form `translated by John Doe` below the text (it would be shown on the site).
-
-You are welcome to visit relevant [discussion at our forum](http://www.codeabbey.com/index/forum_topic/a3aa8b35e8fe646c6f6f4298035fcae4).
+mentioned above, along with using `Markdown` and `GitHub` - you are welcome. If you
+do not feel well with GitHub advanced features, you are welcome to use its `gist` functionality.
+We will be glad if you put your name in the form `translated by John Doe` below the text (it would be shown on the site).
 
 Here follow descriptions of both approaches.
 
-###Working via GitHub forks and pull-requests
+### Working via GitHub forks and pull-requests
 
 1. Choose some problem which you want to translate, it is ok to start with shorter ones.
 2. Open it in your browser and change the `.../task_view/...` in URL to `.../task_text/...` to see the source text (you need to be logged in).
@@ -31,7 +31,7 @@ Here follow descriptions of both approaches.
 6. You may click `Preview` to see how your future page looks like.
 7. When done, click `Commit` below the text area and create pull-request, so that I can merge your work to main repository.
 
-###Simpler way
+### Simpler way
 
 1. Steps 1 and 2 are the same as above - chose some problem and open its source.
 2. Log into GitHub (this will allow you to save / edit your work later), creating account if necessary.
@@ -41,4 +41,4 @@ Here follow descriptions of both approaches.
 6. When finished, click `Create secret gist` (not much secret, but this allow you not to abuse search engines with the text source). Now your work is saved in your account and you have a link for it.
 7. Go to [Issues for this project](https://github.com/CodeAbbey/Translations/issues) and create another issue, posting url to your gist here and shortly describing what task and to which language is translated.
 
-If necessary, you can also notify me via e-mail or forum, or FB - see [Contacts](http://www.codeabbey.com/index/wiki/copyright)
+**Please notify me at forum so that I merge your PR (or gist)**
