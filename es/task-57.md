@@ -5,7 +5,7 @@
 El pequeño Merlin quiere ser meteorologo. El mide la temperatura del aire cada hora así que despues de 
 varios dias el tiene una larga secuencia de valores.
 
-Sin embargo, sus instrumentos no son ideales por lo que las mediciones no son exactas--ellos aleatoreamente
+Sin embargo, sus instrumentos no son ideales por lo que las mediciones no son exactas--pues aleatoreamente
 saltan hacia arriba y hacia abajo algunos grados del valor real.
 
 observando esto, Merlin decide hacer los datos más suaves. Para lograrlo, el solo necesita que cada valor
