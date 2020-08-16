@@ -8,7 +8,7 @@ El ordenamiento de arreglos es un problema popular para los recien llegados -- y
     a = [3, 1, 4, 1, 5, 9, 2, 6]
 
 y queremos que sus elementos sean reordenados en un orden no decreciente -Es decir, si un elemento es puesto primero (a la
-izquierda) de otro elemento - podemos estar seguros que el primer elemento es menor o igual al segundo.
+izquierda) de otro elemento - podemos estar seguros que el primer elemento es menor o igual que el  segundo.
 
 Hablando matematicamente, para algunos indices 'i' y 'j' si 'i<j' entonces `a[i] <= a[j]`.
 
@@ -30,7 +30,7 @@ Para intercambiar los elementos con indices í´ e ´j´ hay algunas variantes. 
 
 ###Problema
 
-Vamos a implementar la versión descrito del ordenamiento de burbuja. Para testiar esto, verificaremos el numero de pases y el numero 
+Vamos a implementar la versión descrita del ordenamiento de burbuja. Para testear esto, verificaremos el numero de pases y el numero 
 de intercambios hechos antes de que el arreglo esté ordenado.
 
 **Datos de entrada** contendran el tamaño del array en la primera linea y el array en la segunda
@@ -49,4 +49,4 @@ cerca de `N^2 / 4`) así que el tiempo que toma el algoritmo crece significativa
 que este ordenamiento es usado raramente para arrays grandes)
 
 
-*Additional info can be found in the topic on [sorting algorithms comparison](../wiki/sorting-algorithms-comparison)*
+*Información adicional puede ser encontrada en [sorting algorithms comparison](../wiki/sorting-algorithms-comparison)*
