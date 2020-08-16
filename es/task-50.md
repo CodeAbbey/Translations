@@ -11,7 +11,7 @@ Como puedes ver, las mayusculas son tomadas como minusculas. Espacios y puntuaci
 
 Tu meta en este ejercicio de programacion es determinar, si la frase representa un palindrome o no.
 
-**Datos de Entrada** contiene el numero de frases en la primera linea.
+**Datos de Entrada** En la primera linea, contiene el numero de frases.
 Las siguientes lineas contienen una frase cada una.
 **Respuesta** debe tener una sola letra (separada por espacio) para cada frase: `Y` si es un palindrome y `N` si no.
 
