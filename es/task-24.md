@@ -1,8 +1,8 @@
-Numeros aleatoreos son a menudo en programacion de juegos e investigaciones cientificas, pero tambien ellos pueden ser utiles incluso
+Numeros aleatoreos son a menudo usados en programacion de juegos e investigaciones cientificas, pero también ellos pueden ser útiles incluso
 en aplicaciones de negocios (para generar claves unicas, passwords etc.). Nosotros vamos a aprender como son 
 generadas y tendremos una practica con algunos metodos simples.
 
-Aqui está uno de los primeros metodos para producir una secuencia de semilla independiente (Es decir numeros seudoaleatores) de numeros:
+Aqui está uno de los primeros metodos para producir una secuencia de semilla independiente (Es decir numeros seudoaleatoreos):
 
 1. Elige un valor inicial de 4 digitos (Es decir en el rango '0000...9999').
 2. multiplicalo por si mismo (Es decir, elevalo a la segunda potencia) para obtener un valor de 8 digitos (añade los ceros - al inicio- faltantes si es necesario).
@@ -26,12 +26,12 @@ Resulta obvio que tarde o temprano cada secuencia llegará a una especie de bucl
     0001 -> 0000 -> 0000                   - llega a un bucle despues de dos iteraciones
 	4100 -> 8100 -> 6100 -> 2100 -> 4100   - llega a un bucle despues de 4 iteraciones
 
-Te seran dados valores iniciales para varias secuencias. Por cada una de ellas, reporta el numero de iteraciones necesarias
+Te serán dados valores iniciales para varias secuencias. Por cada una de ellas, reporta el numero de iteraciones necesarias
 para llegar a la repeticion.
 
-**Datos de entrada** en la primera linea, contendran la cantidad de valores iniciales. En la segunda linea contendran los valores iniciales
+**Datos de entrada** la primera linea, contendrá la cantidad de valores iniciales. La segunda linea contendrá los valores iniciales
 separados por espacios.
-**Respuesta** debe contener el numero de iteraciones para las  secuencias con las cuales dado el valor inicial se convierte en bucle.
+**Respuesta** debe contener el número de iteraciones para las  secuencias con las cuales dado el valor inicial se convierte en bucle.
 
 Ejemplo:
 
