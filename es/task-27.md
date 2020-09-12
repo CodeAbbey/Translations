@@ -1,4 +1,4 @@
-_ podria ser util resolver  [Bubble in Array](./bubble-in-array) antes de este problema._
+_ podria ser util resolver  [Bubble in Array](./bubble-in-arrayarray-es) antes de este problema._
 
 El ordenamiento de arreglos es un problema popular para los recien llegados -- y extremadamente importante en programación profesional
 (bases de datos, bibliotecas etc).
