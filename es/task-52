@@ -1,0 +1,48 @@
+<div class="text-center">
+	<img alt="types of angles in triangle" src="https://codeabbey.github.io/data/pythagorean-theoreme.png"/>
+</div>
+
+Un triangulo es llamado **rectangulo** cuando uno de sus tres angulos es **angulo recto**, igual a 90Â° Es decir, 
+dos lados de este triangulo son ortogonales. Recordemoslo.
+
+Los lados adyacentes al angulo recto de estos triangulos, son llamados **catetos** y el tercer lado es **hipotenusa**.
+El teorema estalbece que la longitud de la hipotenusa está determinada por las longitudes de los catetos a partir de esta simple formula:
+
+    c^2 = a^2 + b^2
+	
+	    o
+		
+	c = raiz_cuadrada(a^2 + b^2)
+
+Donde `c` es la longitud de la hipotenusa, mientras `a` y `b` son las longitudes de los catetos.
+
+Es famoso el ejemplo del triangulo rectangulo donde sus lados son `3`, `4` y `5` unidades. Así, en este caso, el teorema afirma:
+
+    5^2 = 3^2 + 4^2
+	
+	    or
+	
+	25 = 9 + 16
+
+En esta tarea tú usaras este teorema para escribir un programa que pueda determiar, cuando un triangulo es réctangulo,
+o si es **acutangulo*, o **obtusángulo**:
+
+- para el triangulo acutangulo el lado mas largo es más corto de lo que la hipotenusa deberia ser;
+- para el triangulo obtusangulo el lado mas largo, es más largo de lo que la hipotenusa debería ser.
+
+**Datos de Entrada** en la primera linea contendrá el numero de triangulos.  
+Las siguientes lineas describen cada una un triangulo. Cuya descripción consiste en tres valores - longitudes de los lados. El valor más grande será
+siempre ser el ultimo de los tres, por motivos de simplicidad.
+**Respuestas** Debe tener una de las letras `R` (right, réctangulo), `A` (acute, acutangulo) o `O` (obtuse, obtusángulo) pr cada uno de los triangulos. La letras
+deben estar separadas por espacios.
+
+Ejemplo:
+
+    datos de entrada:
+	3
+	6 8 9
+	9 12 15
+	16 12 22
+	
+	respuesta:
+	A R O
