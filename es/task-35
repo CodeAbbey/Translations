@@ -1,0 +1,38 @@
+<!-- #Calculadora de Ahorros -->
+Joel quiere comprar un bote que cuesta `$10000`. Sin embargo, el actualmente tiene solo `$1000`. Una de las formas de hacer crecer su dinero
+es ponerle en una cuenta bancaria y esperar. Por ejemplo, si la cuenta incrementa un `8%` cada año:
+
+    año     dinero
+	  0       1000
+	  1       1080
+	  2       1166.4
+	  3       1259.71
+	  4       1360.48
+	  5       1469.31
+	  6       1586.85
+	    .....
+	 29       9316.82
+	 30      10062.16
+
+Entonces Joel puede hacer crecer su dinero en `30` años. Ademas, si la cuenta crece, no anualmente sino mensual (con la
+misma tasa de interes de `8%` al año) entonces la suma sera alcanzada en solo `29` años! 
+then Joel can grow his money in `30` years. Moreover, if account is increased not annually but monthly (with the
+same interest rate of `8%` per year) then the sum will be collected in only `29` years! Bastante divertido :)
+
+En esta tarea tú necesitas ayudar a Joel a calcular cuantos años necesita esperar dependiendo de una suma inicial
+de dinero `S`, requiere una suma  `R` y una tasa de interes bancaria `P`. Al final de cada año la cuenta es aumentada y
+**redondeada hacia abajo** hasta centavos ( como en el ejemplo de arriba).
+
+**Datos de entrada** En  la primera linea contendrá el numero de casos a testiar.
+Cada una de las siguientes lineas contiene tres numeros`S`, `R` y `P`.
+**Respuesta** deberá contener el numero de años a esperar en cada caso, separados por espacios.
+
+Ejemplo:
+
+    datos de entrada:
+	2
+	1000 10000 8
+	50 100 25
+	
+	respuesta:
+	30 4
