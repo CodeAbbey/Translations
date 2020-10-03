@@ -1,0 +1,29 @@
+Despues de resolver la tarea [Bubble Sort](./bubble-sort-es) suponesmos que aprendiste sobre el ordenamiento de arreglos. Ahora tenemos para tí
+un prolbema ligeramente ms complicado de programar, ya que es importante tener práctica en la clasificación y manipulación no
+sólo valores primitivos sino también de objetos más complejos.
+
+Como anteriormente, te daremos  un arreglo  de números. Este debe ordenarse primero (en orden no decreciente) -
+y luego, para cada valor, se debe imprimir su índice (posición) inicial (los índices comienzan desde 1).
+
+Es decir, imaginate que tenemos el arreglo `50 98 17 79` el cual se convierte en `17 50 79 98` después de ordenado. ahora:
+
+  17 era el 3-er puesto incialmente
+	50 era el 1-er puesto incialmente
+	79 era el 4-to puesto incialmente
+	98 era el 2-do puesto incialmente
+	
+  así que el resultado es
+	3 1 4 2
+
+**Datos de Entrada** contendran el tamaño del arreglo en la primera fila y los valores del mismo en la segunda
+(los enteros irán separados por espacios).  
+**Respuesta** deberá contener los indices (posiciónes) iniciales del los elementos del arreglo despues de haber sido reordenados.
+
+Ejemplo:
+
+    datos de entrada:
+	4
+	50 98 17 79
+	
+	respuesta:
+	3 1 4 2
