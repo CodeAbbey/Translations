@@ -1,5 +1,5 @@
 <div class="centered hint">
-	<img alt="CodeAbbey Monks struggle with bug" src="http://s3.postimg.org/ioodpr0tf/bug_monk_72_sm.gif"/><br/>
+	<img alt="CodeAbbey Monks struggle with bug" src="https://codeabbey.github.io/data/min_of_two.gif"/><br/>
 	<span>Artist's impression of programmers struggling with The Bug.</span><br/>
 	<span>Note that proper tools may be helpful!</span>
 </div>

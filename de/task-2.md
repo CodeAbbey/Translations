@@ -1,5 +1,5 @@
 <div class="centered">
-<img alt="Demo über das addieren eines Arrays." src="http://s5.postimg.org/ixq2y0nnb/sum_in_loop.gif"/>
+<img alt="Demo über das addieren eines Arrays." src="https://codeabbey.github.io/data/sum_in_loop.gif"/>
 </div>
 
 Als nächstes ist unser Ziel **"Loops"** kennen zu lernen, sprich "Programm Schleifen" um Aktionen automatisch zu wiederholen. 

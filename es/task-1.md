@@ -1,5 +1,5 @@
 <div class="text-center">
-	<img alt="CodeAbbey Monks struggle with bug" src="http://s3.postimg.org/ioodpr0tf/bug_monk_72_sm.gif"/><br/>
+	<img alt="CodeAbbey Monks struggle with bug" src="https://codeabbey.github.io/data/sum_of_two.gif"/><br/>
 	<span class="hint">Recreación del artista sobre los programadores luchando contra El Bug.</span><br/>
 	<span class="hint">¡Nótese que las herramientas apropiadas pueden ser útiles!</span>
 </div>

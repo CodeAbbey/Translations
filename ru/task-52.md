@@ -1,5 +1,5 @@
 <div class="text-center">
-	<img alt="types of angles in triangle" src="http://s5.postimg.org/atwposfqv/pythagorean_theoreme.png"/>
+	<img alt="прямоугольный, остроугольный и тупоугольный треугольники" src="https://codeabbey.github.io/data/pythagorean-theoreme.png"/>
 </div>
 
 Треугольник называется **прямоугольным** если один из его углов **прямой**, равный 90° - т.е. прилежащие

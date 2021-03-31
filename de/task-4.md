@@ -1,5 +1,5 @@
 <div class="text-center">
-	<img src="http://s5.postimg.org/j3mtrsuk7/min_of_two.gif" alt="Kleinstes wählen Animation"/>
+	<img src="https://codeabbey.github.io/data/min_of_two.gif" alt="Kleinstes wählen Animation"/>
 </div>
 
 Oft müssen Programme Entscheidungen zum Ablauf eines Programms wählen. Darum werden wir jetzt etwas "Bedingte Anweisungen und Verzweigungen" üben. 

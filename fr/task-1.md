@@ -1,5 +1,5 @@
 <div class="centered hint">
-	<img alt="Les moînes de CodeAbbey ont de la difficulté avec des erreurs" src="http://s3.postimg.org/ioodpr0tf/bug_monk_72_sm.gif"/><br/>
+	<img alt="Les moînes de CodeAbbey ont de la difficulté avec des erreurs" src="https://codeabbey.github.io/data/sum_of_two.gif"/><br/>
 	<span>Illustration d'un programmeur ayant de la difficulté à trouver une erreur.</span><br/>
 	<span>Notez que les bons outils peuvent être utiles!</span>
 </div>

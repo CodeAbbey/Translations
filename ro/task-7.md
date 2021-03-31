@@ -2,7 +2,7 @@
 Acest exercițiu este similar exercițiului **sums in loop**, dar necesită mai multe calcule.
 
 <div class="text-center">
-	<img alt="fahrenheit and celsius" src="http://s5.postimg.org/3tpo5bg6v/fahrenheit.png"/>
+	<img alt="fahrenheit and celsius" src="https://codeabbey.github.io/data/fahrenheit_celsius.png"/>
 </div>
 
 *Notă: Problema [Rounding](./rounding) explică algoritmul folosit pentru rotunjirea rezultatelor.*

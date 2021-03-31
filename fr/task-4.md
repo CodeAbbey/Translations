@@ -1,5 +1,5 @@
 <div class="text-center">
-	<img src="http://s5.postimg.org/j3mtrsuk7/min_of_two.gif" alt="Animation: Choisir le minimum"/>
+	<img src="https://codeabbey.github.io/data/min_of_two.gif" alt="Animation: Choisir le minimum"/>
 </div>
 
 La plupart des programmes doivent pouvoir effectuer des choix afin de prendre des décisions.

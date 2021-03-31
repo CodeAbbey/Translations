@@ -1,5 +1,5 @@
 <div class="centered">
-<img alt="demo of summing an array" src="http://s5.postimg.org/ixq2y0nnb/sum_in_loop.gif"/>
+<img alt="demo of summing an array" src="https://codeabbey.github.io/data/sum_in_loop.gif"/>
 </div>
 
 Ahora nuestro objetivo es aprender los **bucles** - ej: acciones repetidas.

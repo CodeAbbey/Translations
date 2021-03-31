@@ -1,5 +1,5 @@
 <div class="text-center">
-	<img alt="two cyclists" src="http://s5.postimg.org/suvmy4khj/bycicle_race.png"/>
+	<img alt="два велосипедиста навстречу" src="https://codeabbey.github.io/data/bycicle_race.png"/>
 </div><br/>
 
 Два велосипедиста выезжают из двух разных городов навстречу друг другу. Дорога между городами прямая и ровная, но едут они

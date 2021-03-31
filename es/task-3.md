@@ -1,5 +1,5 @@
 <div class="text-center">
-	<img src="http://s5.postimg.org/js0okbn3r/sums_in_loop.gif" alt="summing two arrays"/>
+	<img src="https://codeabbey.github.io/data/sums_in_loop.gif" alt="summing two arrays"/>
 </div>
 <br/>
 

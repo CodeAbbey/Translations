@@ -1,7 +1,7 @@
 Este ejercicio de programación es aproximadamente el mismo que contar sumas en bucle (sums in loop), pero necesita unos cuantos cálculos más.
 
 <div class="text-center">
-	<img alt="fahrenheit and celsius" src="http://s5.postimg.org/3tpo5bg6v/fahrenheit.png"/>
+	<img alt="fahrenheit and celsius" src="https://codeabbey.github.io/data/fahrenheit_celsius.png"/>
 </div>
 
 *Nota: El problema [Rounding](./rounding--es) explica el algoritmo de redondeo que se usará en esta tarea.*

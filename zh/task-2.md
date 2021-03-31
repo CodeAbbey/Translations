@@ -1,5 +1,5 @@
 <div class="centered">
-<img alt="demo of summing an array" src="http://s5.postimg.org/ixq2y0nnb/sum_in_loop.gif"/>
+<img alt="demo of summing an array" src="https://codeabbey.github.io/data/sum_in_loop.gif"/>
 </div>
 
 现在我们的目标是学习**循环**——即重复动作。让我们来寻找几个数的和（多于两个数）。在一个循环中完成这个操作是有用的。正如上方的图片所展示的那样——你可以创建一个变量`sum`，然后将列表中的每一个值加到它上面。或许["for"循环](http://en.wikipedia.org/wiki/For_loop)会很合适，因为数字的个数是预先就知道的。               

@@ -1,5 +1,5 @@
 <div class="text-center">
-	<img alt="smooth line chart example" src="http://s5.postimg.org/69l1zxd4n/smooth_weather.png"/>
+	<img alt="сглаживание кусочно-линейного графика" src="https://codeabbey.github.io/data/smooth_weather.png"/>
 </div>
 
 Маленький Мерлин хочет стать метеорологом. Он измеряет температуру воздуха каждый час, так что через несколько

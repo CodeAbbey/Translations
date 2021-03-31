@@ -4,7 +4,7 @@ bedarf aber ein wenig mehr Berechnungen
 
 
 <div class="text-center">
-	<img alt="fahrenheit und celsius" src="http://s5.postimg.org/3tpo5bg6v/fahrenheit.png"/>
+	<img alt="fahrenheit und celsius" src="https://codeabbey.github.io/data/fahrenheit_celsius.png"/>
 	<div class="hint">Anmerkung: Die Übung <a href="./rounding--de">Rundung</a> erklärt den Rundungs-Algorythmus
 	den wir in dieser Aufgabe nun wieder benutzen werden.</div>
 </div>

@@ -2,7 +2,7 @@
 классической книге Кернигана и Ричи по языку Си).
 
 <div class="text-center">
-	<img alt="fahrenheit and celsius" src="http://s5.postimg.org/3tpo5bg6v/fahrenheit.png"/>
+	<img alt="сравнение шкал фаренгейта и цельсия" src="https://codeabbey.github.io/data/fahrenheit_celsius.png"/>
 </div>
 
 *Примечание: задача [Rounding](./rounding) объясняет алгоритм округления используемый ниже.*

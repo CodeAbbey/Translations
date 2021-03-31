@@ -1,5 +1,5 @@
 <div class="centered hint">
-	<img alt="Программисты фиксят баг" src="http://s3.postimg.org/ioodpr0tf/bug_monk_72_sm.gif"/><br/>
+	<img alt="Программисты фиксят баг" src="https://codeabbey.github.io/data/sum_of_two.gif"/><br/>
 	<span>Программисты побеждающие Баг в представлении художника</span><br/>
 	<span>Подходящие инструменты могут быть полезны!</span>
 </div>

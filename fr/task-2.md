@@ -1,5 +1,5 @@
 <div class="centered">
-<img alt="démo de la sommation d'un tableau" src="http://s5.postimg.org/ixq2y0nnb/sum_in_loop.gif"/>
+<img alt="démo de la sommation d'un tableau" src="https://codeabbey.github.io/data/sum_in_loop.gif"/>
 </div>
 
 Maintenant notre but sera d'apprendre les **boucles** - c'est à dire des actions répétées.

@@ -1,5 +1,5 @@
 <div class="text-center">
-	<img src="http://s5.postimg.org/j3mtrsuk7/min_of_two.gif" alt="Choosing minimum animation"/>
+	<img src="https://codeabbey.github.io/data/min_of_two.gif" alt="Choosing minimum animation"/>
 </div>
 
 معظم البرامج بحاجة لأن تختار بين خيارات أو أن تأخذ قرارات معينة

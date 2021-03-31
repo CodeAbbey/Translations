@@ -1,5 +1,5 @@
 <div class="centered hint">
-	<img alt="CodeAbbey Mönche kämpfen with Bug" src="http://s3.postimg.org/ioodpr0tf/bug_monk_72_sm.gif"/><br/>
+	<img alt="CodeAbbey Mönche kämpfen with Bug" src="https://codeabbey.github.io/data/min_of_two.gif"/><br/>
 	<span>Eine künstlerische Darstellung von Programmierern welche mit Software-Bugs zu kämpfen haben.</span><br/>
 	<span>Merke: Passendes Werkzeug ist wichtig und meist Hilfreich!</span>
 </div>
