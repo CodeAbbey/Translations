@@ -1,3 +1,4 @@
+<!-- #Modulo und Zeitdifferenz -->
 Der Umgang mit Resten kann Programmieranfängern große Kopfschmerzen bereiten. Lasst uns ein einfaches Programm schreiben
 das diese Operation als Kernstück hat, um die Ganzzahldivision besser zu verstehen. Gleichzeitig üben wir damit auch den Umgang mit
 Datumsübergaben - welche manchmal selbst erfahrenen Programmieren Kopfzerbrechen bereitet.

@@ -1,4 +1,4 @@
-<!-- #Linear function -->
+<!-- #Eine lineare Funktion -->
 Ein häufiges Problem bei der Computerprogrammierung besteht darin, das einem bestimmten Phänomen zugrunde liegende Gesetz zu bestimmen.
 Aus Lernzwecken wollen wir eine einfache Variante üben - die Entdeckung der linearen Abhängigkeit durch zwei gegebene Beobachtungen (zum Beispiel, wie der Preis
 für ein Produkt von seiner Größe, seinem Gewicht usw. abhängt)

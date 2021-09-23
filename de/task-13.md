@@ -1,6 +1,7 @@
+<!-- #Gewichtete Ziffernsumme -->
 Dieses Programm ähnelt komplexeren Algorithmen zur Berechnung von CRC- oder anderen Prüfsummen und Hash-Funktionen für
 Zeichenketten. Darüber hinaus wird es Ihnen weitere Übung für die Zerlegung von Werten in Dezimalstellen bieten. Vielleicht
-möchten Sie vorher [Sum of Digits](./sum-of-digits) ausprobieren.
+möchten Sie vorher [Sum of Digits](./sum-of-digits--de) ausprobieren.
 
 Berechnen wir die Summe der Ziffern wie bevor, aber multiplizieren diesesmal jede Ziffer mit Ihrer Position (von links zählend, beginnend
 mit 1). Als Beispiel, wenn wir den Wert `1776` haben, kalkulieren wir die **gewichtete** Summe der Ziffern (nennen wir sie "wsd") wie folgt:

@@ -1,3 +1,4 @@
+<!-- #Maximum im Array -->
 Diese Aufgabe führt Sie in das Thema "linearer Suchalgorythmus" ein, mit dem Sie sich gut vertraut machen sollten, 
 da es sehr oft auch in komplexeren Programmieraufgaben wie "sortieren" benötigt wird. 
 

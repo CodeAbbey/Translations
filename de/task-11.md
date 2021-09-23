@@ -1,4 +1,4 @@
-<!-- #Sum of digits -->
+<!-- #Summe der Ziffern -->
 Diese Programmieraufgabe ist dafür gedacht Sie in die Grundlagen des Zahlensystems einzuführen. Wir fangen an dieses
 Konzept zu erlernen in dem wir mit dem Dezimalsystem spielen, welches wir täglich benutzen (bedenken Sie jedoch, dass der 
 Computer es intern nicht verwendet - er konvertiert Zahlen nur in dieses System, wenn sie dem Benutzer angezeigt werden sollen).
