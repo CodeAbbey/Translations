@@ -12,7 +12,7 @@ Angenommen, wir erhalten zwei Zeitstempel - zum Beispiel, wann ein Zug oder eine
 kann wie folgt aussehen:
 
     Start: Mai 3, 17:08:30
-	  Ende:  Mai 8, 12:54:15
+    Ende:  Mai 8, 12:54:15
 
 und wir sind neugierig darüber, wie viel Zeit (in Tagen, Stunden, Minuten und Sekunden) während der Reise vergeht (vielleicht, um
 schnellere Möglichkeiten zu wählen). Wie können wir das herausfinden?
@@ -43,5 +43,5 @@ Beispiel:
     5 3 23 22 24 4 20 45
     8 4 6 47 9 11 51 13
     
-	Antwort:
+    Antwort:
     (1 3 4 5) (19 0 57 23) (1 7 44 26)
