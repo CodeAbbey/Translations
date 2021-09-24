@@ -4,7 +4,7 @@ Problem Translations for [CodeAbbey](http://www.codeabbey.com)
 
 Some of colleagues who contributed translations:
 
-- [Axel Werner](https://github.com/axel1973) - German
+- [Axel Werner](https://github.com/axel1973) and [Simon Kammler](https://github.com/SimonK1605) - German
 - [M-Padilla](https://github.com/M-Padilla) - Spanish
 - [Ren Yuntao](https://github.com/renyuntao) - Chinese
 - [Kuoa](https://github.com/kuoa) - Romanian
@@ -40,5 +40,18 @@ Here follow descriptions of both approaches.
 5. Post the source text into textarea and start translation. Try to keep HTML blocks and empty lines unchanged. Also do not change URLs if you are not sure - I'll be able to fix this later if necessary.
 6. When finished, click `Create secret gist` (not much secret, but this allow you not to abuse search engines with the text source). Now your work is saved in your account and you have a link for it.
 7. Go to [Issues for this project](https://github.com/CodeAbbey/Translations/issues) and create another issue, posting url to your gist here and shortly describing what task and to which language is translated.
+
+### Translating Title
+
+Please, add a title translation. Original text usually doesn't contain it as
+title is stored in database - but for translated file include a comment
+in this form, at beginning:
+
+    <!-- #Some Translated Title -->
+
+If such line is found when rendering translation, its title is automatically
+substituted to whatever you have specified (otherwise it will remain in English).
+Please keep all punctuation. Tags `<!-- ... -->` make usual HTML comment, while
+sharp (hash) symbol is here to recognize it is a comment containing title.
 
 **Please notify me at forum so that I merge your PR (or gist)**
