@@ -1,3 +1,4 @@
+<!-- #Два Велосипедиста -->
 <div class="text-center">
 	<img alt="два велосипедиста навстречу" src="https://codeabbey.github.io/data/bycicle_race.png"/>
 </div><br/>

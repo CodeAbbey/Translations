@@ -1,3 +1,4 @@
+<!-- #Теорема Пифагора -->
 <div class="text-center">
 	<img alt="прямоугольный, остроугольный и тупоугольный треугольники" src="https://codeabbey.github.io/data/pythagorean-theoreme.png"/>
 </div>

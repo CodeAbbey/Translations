@@ -1,3 +1,4 @@
+<!-- #Сложить A и Б -->
 <div class="centered hint">
 	<img alt="Программисты фиксят баг" src="https://codeabbey.github.io/data/sum_of_two.gif"/><br/>
 	<span>Программисты побеждающие Баг в представлении художника</span><br/>

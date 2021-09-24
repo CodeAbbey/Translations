@@ -1,3 +1,4 @@
+<!-- #Сглаживание Графика Погоды -->
 <div class="text-center">
 	<img alt="сглаживание кусочно-линейного графика" src="https://codeabbey.github.io/data/smooth_weather.png"/>
 </div>
