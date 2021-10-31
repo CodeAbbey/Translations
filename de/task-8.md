@@ -35,5 +35,5 @@ Beispiel:
     21 30
 
 _Erklärung des Beispiels. Im ersten Fall haben wir eine Sequenz mit dem Startwert `5` und dem Inkrement (der Schrittweite) `2`.
-Wir summieren die ersten `3` Elemente der Sequenz `5 + 7 + 9 = 21`. Der zweite Fall ist einfacher. Er startet mit `3` aber das Inkrement ist `0`,
+Wir summieren die ersten `3` Elemente der Sequenz `5 + 7 + 9 = 21`. Der zweite Fall ist einfacher. Er startet mit `3`, aber das Inkrement ist `0`,
 also ist die Summe `3 + 3 + ... + 3 = 30` (insgesamt für `10` Elemente)._

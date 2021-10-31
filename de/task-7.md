@@ -10,20 +10,20 @@ bedarf aber ein wenig mehr Berechnungen
 </div>
 
 Zur Messung von Temperaturen gibt es zwei weitverbreitete Systeme - Celsius and Fahrenheit.
-Das erste ist weit verbreitet in Europa und weltweit, während das zweite vor allem in den Britisch geprägten
-Gebieten wie USA zu finden ist. 
+Das erste ist in Europa und weltweit weit verbreitet, während das zweite vor allem in britisch geprägten
+Gebieten wie den USA zu finden ist. 
 
-Auf der Celsius Skala friert Wasser bei genau 0 Grad C und kocht bei 100 Grad C. Auf der Fahrenheit Skala
+Auf der Celsius-Skala friert Wasser bei genau 0 Grad C und kocht bei 100 Grad C. Auf der Fahrenheit-Skala
 friert Wasser bei 32 Grad F und kocht bei 212 Grad F. Mehr darüber können Sie im Wikipedia Beitrag 
 [Grad Fahrenheit](https://de.wikipedia.org/wiki/Grad_Fahrenheit) nachlesen. 
 
 Verwenden Sie diese Punkte für ihre Umrechnung von Temperaturen. 
 
 
-Die Aufgabe besteht nun darin, ein Programm zu schreiben welches Fahrenheit in Celsius umrechnen kann. 
+Die Aufgabe besteht nun darin, ein Programm zu schreiben, welches Fahrenheit in Celsius umrechnen kann. 
 
-**Eingabe Daten** enthalten `N+1` Werte, der erste davon ist `N` selbst. (**Beachten Sie** das Sie diesen nicht convertieren).  
-**Lösung** enthält genau `N` Resultate, gerundet auf die nächst nähere Ganzzahl und durch Leerzeichen getrennt. 
+**Eingabe Daten** enthalten `N+1` Werte, der erste davon ist `N` selbst. (**Beachten Sie**, dass Sie diesen nicht konvertieren).  
+**Lösung** enthält genau `N` Resultate, gerundet auf die nächstnähere Ganzzahl und durch Leerzeichen getrennt. 
 
 Beispiel:
 
