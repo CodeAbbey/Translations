@@ -11,5 +11,5 @@ Beispiel:
     answer:
     rovuz erhaj nebeis dnu dnatsleips reiv
 
-Auch wenn einige Sprache, insbesondere funktionale, eine eingebaute Funktion dafür haben, versuchen Sie bitte die Aufgabe selber zu lösen. Genauer 
-gesagt im "selben" String, also durch Verschieben von Zeichen der gleichen Zeichenkette und nicht durch kopieren der Zeichen in eine neue Zeichenkette.
+Auch wenn einige Sprachen, insbesondere funktionale, eine eingebaute Funktion dafür haben, versuchen Sie bitte, die Aufgabe selber zu lösen. Genauer 
+gesagt im "selben" String, also durch Verschieben von Zeichen der gleichen Zeichenkette und nicht durch Kopieren der Zeichen in eine neue Zeichenkette.

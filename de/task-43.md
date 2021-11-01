@@ -1,22 +1,22 @@
-Wenn man Brett- oder Rollenspiele programmiert ist es manchmal nützlich mit Zufallszahlen zu arbeiten 
-um z.b. einen Würfel zu emulieren. Programmieranfängern macht es jedoch oft einige Schwierigkeiten beim 
-konvertieren von Zufallszahlen in die sechs Seiten eines Würfels (Würfel Punkte). 
-Ziel dieser Übungsaufgabe ist es, einen Würfelwurf zu simulieren bei dem die Werte eines Zufallsgenerators
-in eine Würfelpunktzahl gewandelt werden soll. 
+Wenn man Brett- oder Rollenspiele programmiert, ist es manchmal nützlich, mit Zufallszahlen zu arbeiten, 
+um z.b. einen Würfel zu emulieren. Programmieranfängern macht es jedoch oft einige Schwierigkeiten, 
+Zufallszahlen in die sechs Seiten eines Würfels (Würfel Punkte) zu konvertieren. 
+Ziel dieser Übungsaufgabe ist es, einen Würfelwurf zu simulieren, bei dem die Werte eines Zufallsgenerators
+in eine Würfelpunktzahl umgewandelt werden soll. 
 
 Angenommen wir haben einen Zufallsgenerator, welcher uns zufällige Werte im Bereich zwischen
 `0` (inklusive) bis `1` (exklusive)  liefert - dies kann man in Sprachen wie **Basic**, **Java**, **Matlab** usw. antreffen.
 
-Wir möchten nun diese Fließkomma Werte in eine von sechs "Integer" Zahlen konvertieren: Von `1` bis `6`. 
+Wir möchten nun diese Fließkommawerte in eine von sechs "Integer" Zahlen konvertieren: Von `1` bis `6`. 
 Dies kann durch folgende Schritte erreicht werden:
 
 1. Multiplizieren Sie die Zufallszahl mit N, welchen den gewünschten Spielraum des Generators festlegt.
-    In unserem Fall multiplizieren wir mit `6` und erhalten somit eine FLießkommazahl zwischen 
+    In unserem Fall multiplizieren wir mit `6` und erhalten somit eine Fließkommazahl zwischen 
     `0` (inklusive) bis `6` (exklusive)
-2. Anschließend nehmen wir nur den Ganzzahl Wert (integer Teil, erhalten wir durch Verwendung von Funktionen 
+2. Anschließend nehmen wir nur den Ganzzahlwert (integer Teil, erhalten wir durch Verwendung von Funktionen 
     wie `floor` oder `int`) - Somit erhalten wir als Resultat nur einen der folgenden Beträge `0`, `1`, `2`, `3`, `4`, `5`
     mit einer gleichmäßigen Wahrscheinlichkeitsverteilung. 
-3. Da wir jedoch Werte zwischen `1` bis `6` benötigen addieren wir einfach nur noch `1` zum Resultat. 
+3. Da wir jedoch Werte zwischen `1` bis `6` benötigen, addieren wir einfach nur noch `1` zum Resultat. 
 
 Sie erhalten nun mehrere Zufallswerte zwischen `[0 .. 1]`. (Welche durch einen Zugallsgenerator erzeugt werden.)
 Konvertieren Sie diese Zufallswerte gemäß dem eben gezeigten Algorythus in ein Würfelergebnis. 

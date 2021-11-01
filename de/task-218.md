@@ -1,6 +1,6 @@
 _Vielen Dank an [Simon](https://www.codeabbey.com/index/user_profile/diehypotenuse), der die initiale Idee
 dieses Problems hervor brachte, an [Graeme](https://www.codeabbey.com/index/user_profile/quandray) der feststellte,
-dass die einfach Version des Problems zu einfach war :) und an [Alexandr](https://www.codeabbey.com/index/user_profile/aidsfrag) für die Hilfe beim korrigieren des Checkers._
+dass die einfach Version des Problems zu einfach war :) und an [Alexandr](https://www.codeabbey.com/index/user_profile/aidsfrag) für die Hilfe beim Korrigieren des Checkers._
 
 Die [**Sintflut**](https://de.wikipedia.org/wiki/Sintflut) wird in verschiedenen religiösen und epischen
 Quellen erwähnt. Der Regen war so stark, dass der Wasserspiegel anstieg und sogar die höchsten Gipfel bedeckte. Nachdem der Regen aufgehört
@@ -11,11 +11,11 @@ bei Seen.
 
 ### Problemstellung
 
-Wir haben eine ebene Karte des Berges als Höhenraster. Angenommen jede Gitterzelle ist eine Achtelmeile lang sowie breit und die Höhen 
-sind ebenfalls in Achtelmeilen angegeben. Die Frage ist, wieviele Kubikachtelmeilen an Wasser zurückgehalten werden.
+Wir haben eine ebene Karte des Berges als Höhenraster. Angenommen wird, dass jede Gitterzelle eine Achtelmeile lang und breit ist und die Höhen 
+ebenfalls in Achtelmeilen angegeben sind. Die Frage ist, wieviele Kubikachtelmeilen an Wasser zurückgehalten werden.
 
-Eine formale Beschreibung davon, wie das Wasser vom Berg abfließt ist im Detail schwierig zu erstellen.
-Es wird daher erwartet, dass man eine gewisse Intuition an den Tag legt um sich mit den folgenden Grundideen vertraut zu machen:
+Eine formale Beschreibung davon, wie das Wasser vom Berg abfließt, ist im Detail schwierig zu erstellen.
+Es wird daher erwartet, dass man eine gewisse Intuition an den Tag legt, um sich mit den folgenden Grundideen vertraut zu machen:
 
 - Wasser fließt von höheren Zellen zu niedrigeren
 - Wasser fließt nur in vier Richtungen, nicht diagonal

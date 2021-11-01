@@ -1,7 +1,7 @@
 <!-- #Modulo und Zeitdifferenz -->
-Der Umgang mit Resten kann Programmieranfängern große Kopfschmerzen bereiten. Lasst uns ein einfaches Programm schreiben
+Der Umgang mit Resten kann Programmieranfängern große Kopfschmerzen bereiten. Lassen Sie uns ein einfaches Programm schreiben,
 das diese Operation als Kernstück hat, um die Ganzzahldivision besser zu verstehen. Gleichzeitig üben wir damit auch den Umgang mit
-Datumsübergaben - welche manchmal selbst erfahrenen Programmieren Kopfzerbrechen bereitet.
+Datumsübergaben - welche manchmal selbst erfahrenen Programmierern Kopfzerbrechen bereitet.
 
 
 In der Arithmetik ist der Rest (oder Modulus) der "übrig gebliebene", ganzzahlige Betrag nach der Division von zwei Ganzzahlen,
@@ -28,7 +28,7 @@ Die erste Operation könnte durchgeführt werden, in dem man die Minuten mit `60
 Im Gegensatz dazu sollte die Dritte Operation mithilfe mehrerer Divisionen unter Beibehaltung der Reste durchgeführt werden.
 
 Bei dieser Aufgabe erhalten wir mehrere Paare von Zeitstempeln. Wir nehmen an, dass beide Daten des Paares im selben
-Monat liegen und deshalt nur die Anzahl der Tage angegeben werden muss. Wir möchten die Differenz zwischen den Zeitstempeln von jedem Paar berechnen.
+Monat liegen und deshalb nur die Anzahl der Tage angegeben werden muss. Wir möchten die Differenz zwischen den Zeitstempeln von jedem Paar berechnen.
 
 **Eingabe Daten:** enthalten in der ersten Zeile die Testfälle, die folgenden Zeilen enthalten die Testfälle selbst.  
 Jeder Testfall enthält `8` Zahlen, `4` für jeden Zeitstempel: `tag1 stunde1 min1 sek1 tag2 stunde2 min2 sek2` (der zweite

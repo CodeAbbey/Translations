@@ -1,10 +1,10 @@
-Prüsummen sind kleine Werte, die aus großen Datenmengen berechnet werden um zu testen, ob die Daten konsistent sind, d.h. ob sie
+Prüsummen sind kleine Werte, die aus großen Datenmengen berechnet werden, um zu testen, ob die Daten konsistent sind, d.h. ob sie
 Fehler enthalten oder nicht.
 
 Wenn Anna zum Beispiel eine Datei an Bob schickt, kann sie die Prüfsumme berechnen und sie Bob mitteilen. Bob kann die
 Prüfsumme der empfangenen Datei ebenfalls berechnen und mit dem Wert von Anna abgleichen.
 
-_Ein weiteres, deutlich häufigeres Beispiel - jede Bankkarte die Sie verwenden hat eine Prüfsumme in der letzten Ziffer, die dafür
+_Ein weiteres, deutlich häufigeres Beispiel - jede Bankkarte, die Sie verwenden, hat eine Prüfsumme in der letzten Ziffer, die dafür
 sorgt, dass jedes Gerät verhindern kann, dass Sie versehentlich eine falsche Zahl eingeben (mehr dazu in der Übung zum
 [Luhn Algorithmus](./luhn-algorithm))._
 
