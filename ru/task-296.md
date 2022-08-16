@@ -1,5 +1,9 @@
 <!-- #Цена Дерева -->
 
+<div class="centered">
+<img src="https://i.imgur.com/pHwsH0x.png" alt="иллюстрация к задаче о Цене Дерева"/><br/>
+</div>
+
 _Эта задачу любезно предоставил наш коллега [Клайв Фрэйзер](/index/user_profile/csfpython)
 aka `CSFPython` - спасибо большое!_
 
