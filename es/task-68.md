@@ -2,7 +2,7 @@
 	<img alt="dos ciclistas" src="https://codeabbey.github.io/data/bycicle_race.png"/>
 </div><br/>
 
-Dos ciclistas empiezan simultaneamente a moverse  desde ciudades diferentes para encontrarse en algún lugar en el medio (no exactamente
+Dos ciclistas empiezan a moverse simultaneamente desde ciudades diferentes para encontrarse en algún lugar en el medio (no exactamente
 en el punto medio, dado que ellos viajan a diferentes velocidades)
 
 La carretera está trazada en linea recta entre las dos ciudades.
