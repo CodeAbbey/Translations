@@ -1,8 +1,9 @@
+<!-- #Somma ciclica -->
 <div class="centered">
 <img alt="dimostraione della somma di un vettore" src="https://codeabbey.github.io/data/sum_in_loop.gif"/>
 </div>
 
-Adesso il nostro obbiettico è di imparare i **cicli** - cioè le azioni ripetute.
+Il nostro obbiettivo adesso è di imparare i **cicli** - cioè le azioni ripetute.
 Scopriamo come sommare diversi numeri (più di due). Per farlo sarà utile utilizzare un ciclo.
 Come mostrato in alto nella figura - puoi creare una variabile `Sum` e sommargli ciascun valore della lista.
 Il [ciclo "for"](http://it.wikipedia.org/wiki/Ciclo_for) può adattarsi bene allo scopo siccome conosciamo 
