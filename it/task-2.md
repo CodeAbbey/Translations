@@ -9,7 +9,7 @@ Come mostrato in alto nella figura - puoi creare una variabile `Sum` e sommargli
 Il [ciclo "for"](http://it.wikipedia.org/wiki/Ciclo_for) può adattarsi bene allo scopo siccome conosciamo 
 in anticipo il numero dei numeri da sommare. 
 
-Se hai problemi puoi provare prima [Sums In Loop](./sums-in-loop) - potresti trovarlo più semplice.
+Se hai problemi puoi provare prima [Somme cicliche](./sums-in-loop--it) - potresti trovarlo più semplice.
 
 I **dati di input** hanno il seguente formato:
 
