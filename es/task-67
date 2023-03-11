@@ -1,0 +1,45 @@
+Incluso un programador novato está usualmente familiarizado con **La secuencia de fibonacci** la cual es generada de la siguente manera:
+
+- 0- valor es `0`;
+- 1-er valor es `1`;
+- todos los siguientes valores son la suma de los dos predecesores inmediatos.
+
+Así tenemos:
+
+    0: 0
+	1: 1
+	2: 1 = 0 + 1
+	3: 2 = 1 + 1
+	4: 3 = 1 + 2
+	5: 5 = 2 + 3
+	6: 8 = 3 + 5
+
+y sucesivamente, si tú continuas calculadolo por ti mismo, obtendras la siguiente secuencia inicial:
+
+    0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, ...
+
+Puedes percatarte de que los valores crecen muy rapido! El `lugar-17` está cercano a exceder a mil, `lugar 31`
+es más grande que un `millón`.
+
+**Planteamiento del problema**
+
+Se te daran varios numeros de la secuencia de Fibonacci. Tu tarea es dar los indices de dicha secuencia.
+
+**Datos de entrada** En la primera linea contiene el numero de datos que se te darán.  
+Las siguientes lineas contienen un numero de fibonacci cada una (desde los primeros `1000` valores).
+**Respuesta** deberá contener los indices en la secuencia, separados por espacios.
+
+Ejemplo:
+
+    datos de entrada:
+	5
+	610
+	34
+	0
+	1346269
+	10946
+	
+	respuesta:
+	15 9 0 31 21
+
+*Sé cuidadoso: Los valores podrián ser de cientos o más digitos de longitud!*
